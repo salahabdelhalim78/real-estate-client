@@ -85,18 +85,38 @@ export default async function Page({ params }: pageProps) {
                             </div>
                         }
                     </div>
+                    {compound.units?.length > 0 &&
 
-                    <section>
-                        <h2 className=" font-semibold text-2xl  text-center mt-5">Units</h2>
-                        <div className="w-full py-10 flex flex-wrap">
+                        <section>
+                            <h2 className=" font-semibold text-2xl  text-center mt-5">Units</h2>
+                            <div className="w-full py-10 flex gap-5 flex-wrap">
 
-                            {
-                                compound.units.map(u => {
-                                    return u && <UnitCard key={u.id} text={u.title} href={u.doc} />
-                                })
-                            }
-                        </div>
-                    </section>
+                                {
+                                    compound.units.map(u => {
+                                        return u && <UnitCard key={u.id} text={u.title} href={u.doc} />
+                                    })
+                                }
+                            </div>
+                        </section>
+                    }
+
+                    {
+
+                        compound.map &&
+
+
+                        <iframe
+                            className="w-full max-w-screen mx-auto mb-20"
+                            src={compound.map}
+                            width="600"
+                            height="450"
+                            style={{ border: 0 }}
+                            allowFullScreen={true}
+                            loading="lazy"
+                            referrerPolicy="no-referrer-when-downgrade"
+                        />
+
+                    }
                 </section>
             }
         </>

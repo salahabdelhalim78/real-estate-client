@@ -22,7 +22,8 @@ export type Compound = {
     thumbnail: string
     images: string[]
     units: Unit[]
-    amenities: string[]
+    amenities: string[],
+    map?: string
 }
 
 export type Developer = {

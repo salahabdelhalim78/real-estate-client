@@ -60,7 +60,8 @@
                             "images": [],
                             "doc": "/developers/lavista/oro/units/LVD-ElPatioOro-3Bdr-168SQM-121-4-1-Fullyfinished.pdf"
                         }
-                    ]
+                    ],
+                    "map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d6324.262653647888!2d31.590343079330726!3d30.022373093520837!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x14581f92a067a7a1%3A0x90bd97b845008db2!2sEl%20Patio%20Oro%20By%20La%20Vista%20Developments!5e1!3m2!1sen!2seg!4v1759348612637!5m2!1sen!2seg"
                 },
                 {
                     "id": "riva",
@@ -97,7 +98,30 @@
                             "images": [],
                             "doc": "/developers/lavista/riva/units/Patio-Riva-New-Launch-Fact-Sheet.pdf"
                         }
-                    ]
+                    ],
+                    "map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d41189.59687097872!2d31.55307267814429!3d29.96742745890236!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x145821492db84a77%3A0x873db4edce4246e1!2sEl%20Patio%20Vida%20by%20La%20Vista%20Developments!5e1!3m2!1sar!2seg!4v1759349763495!5m2!1sar!2seg"
+                },
+                {
+                    "id": "patio7",
+                    "name": "El Patio 7",
+                    "description": "Patio 7 is fully completed, with the exception of one building, and is ready for immediate occupancy. To foster a well-balanced community, prospective clients are required to complete a profile form, which will then be reviewed and approved by the company before available units are shared. The project is ideally located near the American University in Cairo (AUC), at the heart of New Cairo prestigious Golden Square. On average the 3 bedroom apartment is around 18 million. 35% downpayment and the rest on 3 years",
+                    "thumbnail": "/developers/lavista/patio7/7-1.webp",
+                    "images": [
+                        "/developers/lavista/patio7/7-1.webp",
+                        "/developers/lavista/patio7/7-2.webp",
+                        "/developers/lavista/patio7/7-3.webp",
+                        "/developers/lavista/patio7/7-5.webp"
+                    ],
+                    "amenities": [
+                        "Landscape Garden",
+                        "Firefighting System",
+                        "Surveillance System",
+                        "24x7 Security",
+                        "Swimming Pool",
+                        "Fitness Center"
+                    ],
+                    "units": [],
+                    "map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1329.8100061393166!2d31.502977707151608!3d30.00017499295003!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x1458232ee89ab001%3A0xb101af9e4f765470!2sLa%20Vista%20Patio%20VII!5e1!3m2!1sen!2seg!4v1759348161921!5m2!1sen!2seg"
                 }
             ]
         }
