@@ -9,13 +9,20 @@ import {
     BreadcrumbPage,
     BreadcrumbSeparator,
 } from "@/components/ui/breadcrumb"
-import { getDeveloperById } from "@/lib/data";
+import { getDeveloperById, getDevelopers } from "@/lib/data";
 import Link from "next/link";
 type pageProps = {
     params: any
 }
 
 export const dynamic = "force-static"
+
+export function generateStaticParams() {
+
+    const developers = getDevelopers();
+    return developers.map(d => ({ developerSlug: d.id }))
+
+}
 
 export default async function Page({ params }: pageProps) {
 
