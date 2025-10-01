@@ -1,0 +1,52 @@
+{
+    "developers": [
+        {
+            "id": "lavista",
+            "name": "Lavista",
+            "description": "Established in 1991, by Architect Alaa Hady and Eng. Mohamed Hady, La Vista Developments prides itself in creating a new standard in resort and residential living through its outstanding record of accomplishments. With an in-house design office that includes an expert team of architects and landscape designers, La Vista Developments’ holistic approach of building new communities embraces all practices from vision to design, construction, finishing and operation, which has allowed La Vista to continually deliver the highest standards to its clients. We have amassed a large client-base who believe in our expertise and in the strong investments made with a property purchase from La Vista Developments. This trust continues to fuel our drive to grow even further and successfully deliver on schedule several projects in the Red Sea, North coast, Shorouk City, New Cairo, 6 October as well as in the New Capital. With more projects currently being developed.",
+            "logo": "/developers/lavista/logo.webp",
+            "compounds": [
+                {
+                    "id": "patiooro",
+                    "name": "El Patio ORO",
+                    "description": "The location of EL PATIO ORO in the golden square makes it unique and easily reachable. The compound is comprised of apartments and villas that offer privacy within a homogenous community where everyone enjoys the various facilities, from the beautiful landscape to multiple water features and swimming pools, all of which are designed to make life peaceful, comfortable and enjoyable.",
+                    "thumbnail": "/developers/lavista/oro/1.webp",
+                    "images": [
+                        "/developers/lavista/oro/1.webp",
+                        "/developers/lavista/oro/2.webp",
+                        "/developers/lavista/oro/3.webp",
+                        "/developers/lavista/oro/4.webp",
+                        "/developers/lavista/oro/5.webp",
+                        "/developers/lavista/oro/6.webp"
+                    ],
+                    "amenities": [
+                        "Landscape Garden",
+                        "Firefighting System",
+                        "Surveillance System",
+                        "24x7 Security",
+                        "Swimming Pool",
+                        "Fitness Center"
+                    ],
+                    "units": [
+                        {
+                            "id": "2",
+                            "title": "El Patio Oro 3 Bdr, 220 SQM.pdf",
+                            "description": "",
+                            "number": "",
+                            "space": "",
+                            "bedrooms": 3,
+                            "bathroom": 4,
+                            "level": "",
+                            "delivery": "",
+                            "price": "",
+                            "payment": "",
+                            "thumbnail": "",
+                            "images": [],
+                            "doc": "/developers/lavista/oro/units/LVD-ElPatioOro-3Bdr-220SQM-130-3-1-Fullyfinished.pdf"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
