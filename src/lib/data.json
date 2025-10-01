@@ -29,13 +29,13 @@
                     ],
                     "units": [
                         {
-                            "id": "2",
-                            "title": "El Patio Oro 3 Bdr, 220 SQM.pdf",
+                            "id": "1",
+                            "title": "3 Bdr, 220 SQM.pdf",
                             "description": "",
                             "number": "",
                             "space": "",
-                            "bedrooms": 3,
-                            "bathroom": 4,
+                            "bedrooms": 0,
+                            "bathroom": 0,
                             "level": "",
                             "delivery": "",
                             "price": "",
@@ -43,6 +43,59 @@
                             "thumbnail": "",
                             "images": [],
                             "doc": "/developers/lavista/oro/units/LVD-ElPatioOro-3Bdr-220SQM-130-3-1-Fullyfinished.pdf"
+                        },
+                        {
+                            "id": "2",
+                            "title": "3 Bdr, 168 SQM.pdf",
+                            "description": "",
+                            "number": "",
+                            "space": "",
+                            "bedrooms": 0,
+                            "bathroom": 0,
+                            "level": "",
+                            "delivery": "",
+                            "price": "",
+                            "payment": "",
+                            "thumbnail": "",
+                            "images": [],
+                            "doc": "/developers/lavista/oro/units/LVD-ElPatioOro-3Bdr-168SQM-121-4-1-Fullyfinished.pdf"
+                        }
+                    ]
+                },
+                {
+                    "id": "riva",
+                    "name": "El Patio Riva",
+                    "description": "El Patio Riva by La Vista Developments spans 75 acres of vibrant living, featuring lush landscapes, tree-lined pathways, refreshing water features, and thoughtfully designed spaces that create a serene yet lively community blending nature, modern elegance, and comfort.",
+                    "thumbnail": "/developers/lavista/riva/1.webp",
+                    "images": [
+                        "/developers/lavista/riva/1.webp",
+                        "/developers/lavista/riva/2.webp",
+                        "/developers/lavista/riva/3.webp"
+                    ],
+                    "amenities": [
+                        "2 BBQ AREAS",
+                        "3 CLUBHOUSES",
+                        "SPORTS COURTS",
+                        "KIDS AREA",
+                        "FAMILY PARK",
+                        "COMMERCIAL HUB"
+                    ],
+                    "units": [
+                        {
+                            "id": "1",
+                            "title": "Launch prices.pdf",
+                            "description": "",
+                            "number": "",
+                            "space": "",
+                            "bedrooms": 0,
+                            "bathroom": 0,
+                            "level": "",
+                            "delivery": "",
+                            "price": "",
+                            "payment": "",
+                            "thumbnail": "",
+                            "images": [],
+                            "doc": "/developers/lavista/riva/units/Patio-Riva-New-Launch-Fact-Sheet.pdf"
                         }
                     ]
                 }

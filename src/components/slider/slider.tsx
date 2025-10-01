@@ -62,7 +62,7 @@ export default function Slider({ images }: { images: string[] }) {
                             >
                                 <Image
                                     sizes='200px'
-                                    fill src={img} alt={`Slide ${i}`} className=" !w-full !h-full object-contain" />
+                                    fill src={img} alt={`Slide ${i}`} className=" !w-full !h-full object-cover" />
                             </SwiperSlide>
                         ))}
                     </Swiper>
