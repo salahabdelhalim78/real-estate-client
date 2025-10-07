@@ -30,6 +30,22 @@
                     "units": [
                         {
                             "id": "1",
+                            "title": "The only landscapre view unit 3 Bdr, 220 SQM.pdf",
+                            "description": "",
+                            "number": "",
+                            "space": "",
+                            "bedrooms": 0,
+                            "bathroom": 0,
+                            "level": "",
+                            "delivery": "",
+                            "price": "",
+                            "payment": "",
+                            "thumbnail": "",
+                            "images": [],
+                            "doc": "/developers/lavista/oro/units/LVD_ElPatioOro_3Bdr_220SQM_Prime_130-3-2_FF.pdf"
+                        },
+                        {
+                            "id": "2",
                             "title": "3 Bdr, 220 SQM.pdf",
                             "description": "",
                             "number": "",
@@ -45,7 +61,7 @@
                             "doc": "/developers/lavista/oro/units/LVD-ElPatioOro-3Bdr-220SQM-130-3-1-Fullyfinished.pdf"
                         },
                         {
-                            "id": "2",
+                            "id": "3",
                             "title": "3 Bdr, 168 SQM.pdf",
                             "description": "",
                             "number": "",
@@ -84,7 +100,7 @@
                     "units": [
                         {
                             "id": "1",
-                            "title": "Launch prices.pdf",
+                            "title": "167 3 bedroom Good View .pdf",
                             "description": "",
                             "number": "",
                             "space": "",
@@ -96,32 +112,26 @@
                             "payment": "",
                             "thumbnail": "",
                             "images": [],
-                            "doc": "/developers/lavista/riva/units/Patio-Riva-New-Launch-Fact-Sheet.pdf"
+                            "doc": "/developers/lavista/riva/units/PatioRiva_3Bdr_167.pdf"
+                        },
+                        {
+                            "id": "2",
+                            "title": "182 3 bedroom Good View .pdf",
+                            "description": "",
+                            "number": "",
+                            "space": "",
+                            "bedrooms": 0,
+                            "bathroom": 0,
+                            "level": "",
+                            "delivery": "",
+                            "price": "",
+                            "payment": "",
+                            "thumbnail": "",
+                            "images": [],
+                            "doc": "/developers/lavista/riva/units/PatioRiva_24C50_182sqm.pdf"
                         }
                     ],
                     "map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d41189.59687097872!2d31.55307267814429!3d29.96742745890236!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x145821492db84a77%3A0x873db4edce4246e1!2sEl%20Patio%20Vida%20by%20La%20Vista%20Developments!5e1!3m2!1sar!2seg!4v1759349763495!5m2!1sar!2seg"
-                },
-                {
-                    "id": "patio7",
-                    "name": "El Patio 7",
-                    "description": "Patio 7 is fully completed, with the exception of one building, and is ready for immediate occupancy. To foster a well-balanced community, prospective clients are required to complete a profile form, which will then be reviewed and approved by the company before available units are shared. The project is ideally located near the American University in Cairo (AUC), at the heart of New Cairo prestigious Golden Square. On average the 3 bedroom apartment is around 18 million. 35% downpayment and the rest on 3 years",
-                    "thumbnail": "/developers/lavista/patio7/7-1.webp",
-                    "images": [
-                        "/developers/lavista/patio7/7-1.webp",
-                        "/developers/lavista/patio7/7-2.webp",
-                        "/developers/lavista/patio7/7-3.webp",
-                        "/developers/lavista/patio7/7-5.webp"
-                    ],
-                    "amenities": [
-                        "Landscape Garden",
-                        "Firefighting System",
-                        "Surveillance System",
-                        "24x7 Security",
-                        "Swimming Pool",
-                        "Fitness Center"
-                    ],
-                    "units": [],
-                    "map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1329.8100061393166!2d31.502977707151608!3d30.00017499295003!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x1458232ee89ab001%3A0xb101af9e4f765470!2sLa%20Vista%20Patio%20VII!5e1!3m2!1sen!2seg!4v1759348161921!5m2!1sen!2seg"
                 }
             ]
         }
