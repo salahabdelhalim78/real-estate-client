@@ -134,6 +134,54 @@
                     "map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d41189.59687097872!2d31.55307267814429!3d29.96742745890236!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x145821492db84a77%3A0x873db4edce4246e1!2sEl%20Patio%20Vida%20by%20La%20Vista%20Developments!5e1!3m2!1sar!2seg!4v1759349763495!5m2!1sar!2seg"
                 }
             ]
+        },
+        {
+            "id": "2",
+            "name": "Hyde Park",
+            "description": "Established in 2007 by Damac Properties and subsequently acquired by Hyde Park Developments in 2011, becoming a leading private residential, leisure, and commercial developer in Egypt. We are the developers of Hyde Park New Cairo, Business District, Garden Lakes, Tawny and Seashore. At Hyde Park Developments, our story begins with a vision to create exceptional living spaces and vibrant communities in Egypt. With a passion for excellence and a commitment to innovation, we embarked on a journey to redefine the real estate landscape and provide unparalleled experiences for our residents. Driven by our core values of integrity, quality, and customer satisfaction, we expanded our portfolio to include a diverse range of projects. From residential communities to commercial hubs, we meticulously design each development to exceed expectations and cater to the evolving needs of our esteemed clientele. We strive to foster a strong sense of community within each Hyde Park development, where neighbors can connect, families can thrive, and friendships can flourish. Our vibrant social scenes, recreational facilities, and amenities encourage interaction and a sense of belonging. Our story is intertwined with the dreams and aspirations of our residents, and we are honored to be part of their journey towards a better tomorrow.",
+            "logo": "/developers/hyde/logo.webp",
+            "compounds": [
+                {
+                    "id": "1",
+                    "name": "Hyde Park New Cairo",
+                    "description": "Hyde Park has made its home across 6 million square meters in the heart of vibrant New Cairo, flaunting not just its size of acreage, but rather the quality of spaces, designs, landscape, and facilities.",
+                    "thumbnail": "/developers/hyde/location_of_New_cairo.webp",
+                    "images": [
+                        "/developers/hyde/location_of_New_cairo.webp"
+                    ],
+                    "amenities": [
+                        "Community Management",
+                        "Clusters Managers",
+                        "Community Center",
+                        "Community App",
+                        "360 Works",
+                        "Security",
+                        "Housekeeping",
+                        "Landscape Maintenance",
+                        "Further Services",
+                        "Triple Play"
+                    ],
+                    "units": [
+                        {
+                            "id": "1",
+                            "title": "Parkway – 3 Bedrooms 161 Club View (Fully Finished).pdf",
+                            "description": "",
+                            "number": "",
+                            "space": "",
+                            "bedrooms": 0,
+                            "bathroom": 0,
+                            "level": "",
+                            "delivery": "",
+                            "price": "",
+                            "payment": "",
+                            "thumbnail": "",
+                            "images": [],
+                            "doc": "/developers/hyde/units/Parkway-3_Bedrooms_161_Club_View-Fully_Finished.pdf"
+                        }
+                    ],
+                    "map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d33083.16570695728!2d31.536341947447685!3d29.981934537056333!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x14582164cc1886fb%3A0x9d87e0cfaf7381fd!2sHyde%20Park%20-%20New%20Cairo!5e1!3m2!1sen!2seg!4v1760115323215!5m2!1sen!2seg"
+                }
+            ]
         }
     ]
 }

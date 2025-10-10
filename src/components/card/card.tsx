@@ -19,7 +19,7 @@ export default function Card(item: CardProps) {
                     <Image
                         sizes="(min-width: 1024px) 25vw, (min-width: 640px) 50vw, 100vw"
 
-                        alt={item.text || "image"} src={item.image} fill className=" w-full h-full max-w-screen object-cover" />
+                        alt={item.text || "image"} src={item.image} fill className=" w-full h-full max-w-screen object-contain" />
                 </div>
             }
             {
