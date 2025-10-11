@@ -204,6 +204,77 @@
                     "map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d33083.16570695728!2d31.536341947447685!3d29.981934537056333!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x14582164cc1886fb%3A0x9d87e0cfaf7381fd!2sHyde%20Park%20-%20New%20Cairo!5e1!3m2!1sen!2seg!4v1760115323215!5m2!1sen!2seg"
                 }
             ]
+        },
+        {
+            "id": "citygate",
+            "name": "City Gate",
+            "description": "CityGate is an integrated community everything you need in one place, starting with tranquillity of nature, green spaces and amenities distributed in a well-planned space in an iconic marvellous location on New Cairo.",
+            "logo": "/developers/citygate/logo.webp",
+            "compounds": [
+                {
+                    "id": "1",
+                    "name": "City Gate Qatari Diar",
+                    "description": "CityGate is an integrated community everything you need in one place, starting with tranquillity of nature, green spaces and amenities distributed in a well-planned space in an iconic marvellous location on New Cairo. The project is strategically positioned between New Cairo and New Administrative capital, 30 km southeast of Cairo, which will be the gate of the New Capital of Egypt. CityGate is a self-sustained city with various sizes of villas and apartments viewing the golf course, green spaces and parks. In addition, the project will provide various luxury amenities including community centers in all neighborhoods, schools, international hotels, a sport club, business parks, a medical complex and all means of entertainment planned according to world-class specifications.",
+                    "thumbnail": "/developers/citygate/newcairo/thumbnail.webp",
+                    "images": [
+                        "/developers/citygate/newcairo/thumbnail.webp",
+                        "/developers/citygate/newcairo/0.webp",
+                        "/developers/citygate/newcairo/1.webp",
+                        "/developers/citygate/newcairo/2.webp",
+                        "/developers/citygate/newcairo/4.webp",
+                        "/developers/citygate/newcairo/5.webp",
+                        "/developers/citygate/newcairo/6.webp",
+                        "/developers/citygate/newcairo/7.webp"
+                    ],
+                    "amenities": [
+                        "Single Family",
+                        "Multiple Family",
+                        "Hotels",
+                        "Commercial",
+                        "Regional Mall",
+                        "18-Hole Golf Course",
+                        "Ring Park",
+                        "Schools",
+                        "Hospital",
+                        "Sports Club"
+                    ],
+                    "units": [
+                        {
+                            "id": "1",
+                            "title": "3 Bedroom | 201 sqm | Fully Finished.pdf",
+                            "description": "",
+                            "number": "",
+                            "space": "",
+                            "bedrooms": 0,
+                            "bathroom": 0,
+                            "level": "",
+                            "delivery": "",
+                            "price": "",
+                            "payment": "",
+                            "thumbnail": "",
+                            "images": [],
+                            "doc": "/developers/citygate/newcairo/units/CityGate-SapphireResidence-2C-18-503-3BR-201sqm.pdf"
+                        },
+                        {
+                            "id": "2",
+                            "title": "3 Bedroom | 177 sqm | Fully Finished.pdf",
+                            "description": "",
+                            "number": "",
+                            "space": "",
+                            "bedrooms": 0,
+                            "bathroom": 0,
+                            "level": "",
+                            "delivery": "",
+                            "price": "",
+                            "payment": "",
+                            "thumbnail": "",
+                            "images": [],
+                            "doc": "/developers/citygate/newcairo/units/CityGate-SapphireResidence-2C-19-403-3BR-177sqm.pdf"
+                        }
+                    ],
+                    "map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d50592.02819198428!2d31.52520947166131!3d30.026435396175376!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x145821f82d49b10f%3A0x7eba8498c8263962!2sCityGate%20by%20Qatari%20Diar!5e1!3m2!1sen!2seg!4v1760197634824!5m2!1sen!2seg"
+                }
+            ]
         }
     ]
 }

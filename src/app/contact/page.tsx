@@ -24,7 +24,7 @@ export default function ContactPage() {
               Phone: <a href="tel:+201220000538" className="hover:text-gray-300 transition-colors">+2 01220000538 <span className="bg-button px-5 py-1 rounded-2xl">Call</span></a>
             </p>
             <p className="">
-              Whatsapp: <a href="wa.me/201220000538" className="hover:text-gray-300 transition-colors">+2 01220000538 <span className="bg-button px-5 py-1 rounded-2xl">Send Message</span></a>
+              Whatsapp: <a href="https://wa.me/201220000538" className="hover:text-gray-300 transition-colors">+2 01220000538 <span className="bg-button px-5 py-1 rounded-2xl">Send Message</span></a>
             </p>
 
           </section>
