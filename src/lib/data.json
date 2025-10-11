@@ -132,11 +132,33 @@
                         }
                     ],
                     "map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d41189.59687097872!2d31.55307267814429!3d29.96742745890236!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x145821492db84a77%3A0x873db4edce4246e1!2sEl%20Patio%20Vida%20by%20La%20Vista%20Developments!5e1!3m2!1sar!2seg!4v1759349763495!5m2!1sar!2seg"
+                },
+                {
+                    "id": "patio7",
+                    "name": "El Patio 7",
+                    "description": "Patio 7 is fully completed, with the exception of one building, and is ready for immediate occupancy. To foster a well-balanced community, prospective clients are required to complete a profile form, which will then be reviewed and approved by the company before available units are shared. The project is ideally located near the American University in Cairo (AUC), at the heart of New Cairo prestigious Golden Square. On average the 3 bedroom apartment is around 18 million. 35% downpayment and the rest on 3 years",
+                    "thumbnail": "/developers/lavista/patio7/7-1.webp",
+                    "images": [
+                        "/developers/lavista/patio7/7-1.webp",
+                        "/developers/lavista/patio7/7-2.webp",
+                        "/developers/lavista/patio7/7-3.webp",
+                        "/developers/lavista/patio7/7-5.webp"
+                    ],
+                    "amenities": [
+                        "Landscape Garden",
+                        "Firefighting System",
+                        "Surveillance System",
+                        "24x7 Security",
+                        "Swimming Pool",
+                        "Fitness Center"
+                    ],
+                    "units": [],
+                    "map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1329.8100061393166!2d31.502977707151608!3d30.00017499295003!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x1458232ee89ab001%3A0xb101af9e4f765470!2sLa%20Vista%20Patio%20VII!5e1!3m2!1sen!2seg!4v1759348161921!5m2!1sen!2seg"
                 }
             ]
         },
         {
-            "id": "2",
+            "id": "hydepark",
             "name": "Hyde Park",
             "description": "Established in 2007 by Damac Properties and subsequently acquired by Hyde Park Developments in 2011, becoming a leading private residential, leisure, and commercial developer in Egypt. We are the developers of Hyde Park New Cairo, Business District, Garden Lakes, Tawny and Seashore. At Hyde Park Developments, our story begins with a vision to create exceptional living spaces and vibrant communities in Egypt. With a passion for excellence and a commitment to innovation, we embarked on a journey to redefine the real estate landscape and provide unparalleled experiences for our residents. Driven by our core values of integrity, quality, and customer satisfaction, we expanded our portfolio to include a diverse range of projects. From residential communities to commercial hubs, we meticulously design each development to exceed expectations and cater to the evolving needs of our esteemed clientele. We strive to foster a strong sense of community within each Hyde Park development, where neighbors can connect, families can thrive, and friendships can flourish. Our vibrant social scenes, recreational facilities, and amenities encourage interaction and a sense of belonging. Our story is intertwined with the dreams and aspirations of our residents, and we are honored to be part of their journey towards a better tomorrow.",
             "logo": "/developers/hyde/logo.webp",
